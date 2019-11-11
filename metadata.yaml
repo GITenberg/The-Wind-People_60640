@@ -1,0 +1,23 @@
+_repo: The-Wind-People_60640
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bradley, Marion Zimmer
+    birthdate: 1930
+    deathdate: 1999
+    gutenberg_agent_id: '8842'
+    url: http://www.gutenberg.org/2009/agents/8842
+    wikipedia: http://en.wikipedia.org/wiki/Marion_Zimmer_Bradley
+description: ''
+gutenberg_issued: '2019-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60640'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Wind People
+url: http://www.gutenberg.org/ebooks/60640
